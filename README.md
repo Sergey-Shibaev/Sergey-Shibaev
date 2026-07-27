@@ -34,5 +34,3 @@
 ## Контакты
 
 📧 mail@sshibaev.com
-
-🌐 https://portfolio.sshibaev.com
