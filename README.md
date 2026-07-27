@@ -1,16 +1,69 @@
-## Hi there 👋
+## Инженер прикладных цифровых систем
 
-<!--
-**Sergey-Shibaev/Sergey-Shibaev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Проектирую и разрабатываю прикладные системы, в которых основное внимание уделяется архитектуре, интеграции компонентов и автоматизации бизнес-процессов.
 
-Here are some ideas to get you started:
+Моя основная специализация — перевод реальной предметной задачи в понятные требования, архитектуру и работающее программное решение.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Основные компетенции
+
+- Системный анализ
+- Проектирование архитектуры
+- API-интеграции
+- Python
+- FastAPI
+- Telegram Bot API
+- Webhook
+- SQLite
+- Автоматизация
+- AI-assisted development
+
+---
+
+## Текущий открытый проект
+
+### Trading Execution Engine
+
+Исполнительный движок алгоритмической торговли.
+
+Проект демонстрирует:
+
+- проектирование архитектуры;
+- контрактный подход к разработке;
+- интеграцию TradingView, FastAPI, T-Invest API и Telegram;
+- управление состояниями;
+- безопасную обработку отказов;
+- автоматизированное тестирование.
+
+➡️ https://github.com/Sergey-Shibaev/trading-execution-engine
+
+---
+
+## Следующие проекты
+
+🔨 BotWH
+
+Telegram Mini App для управления складом готовой продукции.
+
+🚀 FitStep
+
+Telegram Mini App для формирования полезных привычек и контроля веса.
+
+---
+
+## Подход к разработке
+
+При создании проектов придерживаюсь принципа
+
+**Документация → Архитектура → Код → Тестирование**
+
+Считаю, что качественная архитектура позволяет быстрее развивать проект, снижает количество ошибок и делает систему проще для сопровождения.
+
+---
+
+## Контакты
+
+📧 mail@sshibaev.com
+
+🌐 https://portfolio.sshibaev.com
